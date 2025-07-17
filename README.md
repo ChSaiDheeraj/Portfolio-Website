@@ -14,19 +14,11 @@
 - **Styling**: Bootstrap
 - **Hosting**: Netlify
 
-## 📁 Project Structure
-portfolio/
-├── assets/ # Images, icons, fonts
-├── components/ # Reusable UI components
-├── pages/ # Main page sections
-├── styles/ # Global CSS/SASS files
-└── public/ # Static files
-
 
 ## 🔧 Installation
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [[your-repo-url]](https://github.com/ChSaiDheeraj/Portfolio-Website)
 npm install
 npm start
 
