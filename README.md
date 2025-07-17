@@ -1,7 +1,5 @@
 # My Portfolio Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/67e62761-8e5f-08a3-4416-1ad5admirable-snickerdoodle-d7f1a8/deploy-status)](https://app.netlify.com/sites/admirable-snickerdoodle-d7f1a8/deploys)
-
 🌐 **Live Demo:** [https://myportfolio.netlify.app](https://67e627618e5f08a344161ad5--admirable-snickerdoodle-d7f1a8.netlify.app/)
 
 ## 🚀 Features
